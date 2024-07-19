@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fc9123f-a4a7-40b6-bbe7-b410eecc7e13" name="Changes" comment="提交代码">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/day01/day01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/heima.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java-base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-base.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1fc9123f-a4a7-40b6-bbe7-b410eecc7e13" name="Changes" comment="提交代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +26,7 @@
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/code/java-base/heima/day01/src",
+    "last_opened_file_path": "D:/code/java-base",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +56,7 @@
       <updated>1721290487469</updated>
       <workItem from="1721290488481" duration="133000" />
       <workItem from="1721390113111" duration="534000" />
+      <workItem from="1721390732120" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="提交代码">
       <created>1721390443399</created>
