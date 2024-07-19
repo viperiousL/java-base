@@ -1,4 +1,4 @@
-package day02.src.note;
+package com.itheima.note;
 
 public class HelloWorld{
 	//叫做main方法，表示程序的主入口

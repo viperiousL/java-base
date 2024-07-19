@@ -1,4 +1,4 @@
-package day01.src;
+package day01.src.com.itheima;
 
 public class HelloWorld{
 	public static void main(String[] args){

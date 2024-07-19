@@ -1,4 +1,4 @@
-package day02.src.value;
+package com.itheima.value;
 
 public class ValueDemo1{
 	public static void main(String[] args){
