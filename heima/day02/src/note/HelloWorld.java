@@ -1,3 +1,5 @@
+package day02.src.note;
+
 public class HelloWorld{
 	//叫做main方法，表示程序的主入口
 	public static void main(String[] args){

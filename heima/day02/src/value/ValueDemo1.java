@@ -1,3 +1,5 @@
+package day02.src.value;
+
 public class ValueDemo1{
 	public static void main(String[] args){
 		//目标：需要大家掌握常见的数据在代码中如何书写的？
