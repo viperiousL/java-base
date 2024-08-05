@@ -1,53 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b14b0102-1222-4cba-9f16-b943c62ef792" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java-base.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/.idea/heima.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day01/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day01/day01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day01/src/com/itheima/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day02/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day02/day02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day02/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day02/src/com/itheima/note/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day02/src/com/itheima/scanner/ScannerDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day02/src/com/itheima/scanner/ScannerDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day02/src/com/itheima/value/ValueDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day02/src/com/itheima/value/ValueDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/day03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/arithmeticoperator/ArithmeticoperatorDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/arithmeticoperator/ArithmeticoperatorDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/arithmeticoperator/ArithmeticoperatorDemo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/arithmeticoperator/ArithmeticoperatorDemo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/arithmeticoperator/ArithmeticoperatorDemo5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/arithmeticoperator/ArithmeticoperatorDemo6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/assigningoperator/AssigningoperatorDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/compareoperator/CompareoperatorDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/logicoperator/LogicoperatorDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/logicoperator/LogicoperatorDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/logicoperator/LogicoperatorDemo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/ternaryoperator/TernaryoperatorDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/test/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/test/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/test/Test3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/test/Test4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/day03/src/com/itheima/test/Test5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/heima.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sgg/readme.wd" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itheima/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +26,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/code/java-base/itheima",
+    "last_opened_file_path": "D:/libing/java-base/itheima",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -79,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721393493033</updated>
       <workItem from="1721393493887" duration="14000" />
+      <workItem from="1722816370359" duration="451000" />
     </task>
     <servers />
   </component>
