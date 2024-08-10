@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/itheima/day07-practice/day07-practice.iml" filepath="$PROJECT_DIR$/itheima/day07-practice/day07-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima/day08-oop/day08-oop.iml" filepath="$PROJECT_DIR$/itheima/day08-oop/day08-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima/day09-oop_practice/day09-oop_practice.iml" filepath="$PROJECT_DIR$/itheima/day09-oop_practice/day09-oop_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day10-string/day10-string.iml" filepath="$PROJECT_DIR$/itheima/day10-string/day10-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day11-list_and_student_system/day11-list_and_student_system.iml" filepath="$PROJECT_DIR$/itheima/day11-list_and_student_system/day11-list_and_student_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day12-student_system_plus/day12-student_system_plus.iml" filepath="$PROJECT_DIR$/itheima/day12-student_system_plus/day12-student_system_plus.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima/itheima.iml" filepath="$PROJECT_DIR$/itheima/itheima.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-base.iml" filepath="$PROJECT_DIR$/.idea/java-base.iml" />
     </modules>

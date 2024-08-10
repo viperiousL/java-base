@@ -4,20 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b14b0102-1222-4cba-9f16-b943c62ef792" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/itheima/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/.idea/itheima.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/day01-introduction/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/day01-introduction/day01-introduction.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/day02-basic_concepts/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/day02-basic_concepts/day02-basic_concepts.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/day03-operator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/day03-operator/day03-operator.iml" beforeDir="false" />
+    <list default="true" id="b14b0102-1222-4cba-9f16-b943c62ef792" name="Changes" comment="增加代码">
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/day10-string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/apidemo/ScannerDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringbuilderdemo/StringBuilderDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringbuilderdemo/StringBuilderDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringbuilderdemo/StringBuilderDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringbuilderdemo/StringBuilderDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringbuilderdemo/StringBuilderDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringbuilderdemo/StringBuilderDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringbuilderdemo/StringBuilderDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringdemo/StringDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringjoinerdemo/StringJoinerDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/stringjoinerdemo/StringJoinerDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/test/Test1Case1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/test/Test1Case2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/test/Test2Case1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/test/Test2Case2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day10-string/src/com/itheima/test/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/day11-list_and_student_system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/ArrayListDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/listdemo/test/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/studentsystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day11-list_and_student_system/src/com/itheima/studentsystem/StudentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day12-student_system_plus/src/com/itheima/studentsystem/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day12-student_system_plus/src/com/itheima/studentsystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day12-student_system_plus/src/com/itheima/studentsystem/StudentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day12-student_system_plus/src/com/itheima/studentsystem/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima/day12-student_system_plus/src/com/itheima/studentsystem/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +83,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/libing/java-base/itheima/day09-oop_practice/src",
+    "last_opened_file_path": "D:/libing/java-base/itheima/day12-student_system_plus/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,11 +98,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\libing\java-base\itheima\day09-oop_practice\src" />
+      <recent name="D:\libing\java-base\itheima\day12-student_system_plus\src" />
+      <recent name="D:\libing\java-base\itheima\day11-list_and_student_system\src" />
+      <recent name="D:\libing\java-base\itheima\day10-string\src" />
       <recent name="D:\libing\java-base\itheima\day08-oop\src" />
-      <recent name="D:\libing\java-base\itheima\day06-method\src" />
-      <recent name="D:\libing\java-base\itheima\day05-senior_if_and_array\src" />
-      <recent name="D:\libing\java-base\itheima\day04-for_and_if\src" />
+      <recent name="D:\libing\java-base\itheima\day07-practice\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\libing\java-base\itheima" />
@@ -75,11 +118,38 @@
       <updated>1721393493033</updated>
       <workItem from="1721393493887" duration="14000" />
       <workItem from="1722816370359" duration="451000" />
-      <workItem from="1723248799531" duration="459000" />
+      <workItem from="1723248799531" duration="1089000" />
     </task>
+    <task id="LOCAL-00001" summary="修改配置">
+      <created>1723249308255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723249308255</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加代码">
+      <created>1723249387656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723249387656</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加代码">
+      <created>1723249526663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723249526663</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改配置" />
+    <MESSAGE value="增加代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加代码" />
   </component>
 </project>
