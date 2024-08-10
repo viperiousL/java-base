@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b14b0102-1222-4cba-9f16-b943c62ef792" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itheima/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itheima/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itheima/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/.idea/itheima.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/day01-introduction/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/day01-introduction/day01-introduction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/day02-basic_concepts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/day02-basic_concepts/day02-basic_concepts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/day03-operator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itheima/day03-operator/day03-operator.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,20 +34,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/libing/java-base/itheima",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/libing/java-base/itheima/day09-oop_practice/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\libing\java-base\itheima\day09-oop_practice\src" />
+      <recent name="D:\libing\java-base\itheima\day08-oop\src" />
+      <recent name="D:\libing\java-base\itheima\day06-method\src" />
+      <recent name="D:\libing\java-base\itheima\day05-senior_if_and_array\src" />
+      <recent name="D:\libing\java-base\itheima\day04-for_and_if\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\libing\java-base\itheima" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +75,7 @@
       <updated>1721393493033</updated>
       <workItem from="1721393493887" duration="14000" />
       <workItem from="1722816370359" duration="451000" />
+      <workItem from="1723248799531" duration="459000" />
     </task>
     <servers />
   </component>

@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/itheima/day01-introduction/day01-introduction.iml" filepath="$PROJECT_DIR$/itheima/day01-introduction/day01-introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day02-basic_concepts/day02-basic_concepts.iml" filepath="$PROJECT_DIR$/itheima/day02-basic_concepts/day02-basic_concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day03-operator/day03-operator.iml" filepath="$PROJECT_DIR$/itheima/day03-operator/day03-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day04-for_and_if/day04-for_and_if.iml" filepath="$PROJECT_DIR$/itheima/day04-for_and_if/day04-for_and_if.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day05-senior_if_and_array/day05-senior_if_and_array.iml" filepath="$PROJECT_DIR$/itheima/day05-senior_if_and_array/day05-senior_if_and_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day06-method/day06-method.iml" filepath="$PROJECT_DIR$/itheima/day06-method/day06-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day07-practice/day07-practice.iml" filepath="$PROJECT_DIR$/itheima/day07-practice/day07-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day08-oop/day08-oop.iml" filepath="$PROJECT_DIR$/itheima/day08-oop/day08-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day09-oop_practice/day09-oop_practice.iml" filepath="$PROJECT_DIR$/itheima/day09-oop_practice/day09-oop_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/itheima.iml" filepath="$PROJECT_DIR$/itheima/itheima.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-base.iml" filepath="$PROJECT_DIR$/.idea/java-base.iml" />
     </modules>
   </component>
