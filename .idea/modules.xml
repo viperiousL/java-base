@@ -25,6 +25,9 @@
       <module fileurl="file://$PROJECT_DIR$/itheima/day21-algorithm_lambda_practice/day21-algorithm_lambda_practice.iml" filepath="$PROJECT_DIR$/itheima/day21-algorithm_lambda_practice/day21-algorithm_lambda_practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima/day22-list_collect/day22-list_collect.iml" filepath="$PROJECT_DIR$/itheima/day22-list_collect/day22-list_collect.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima/day23-set_collect/day23-set_collect.iml" filepath="$PROJECT_DIR$/itheima/day23-set_collect/day23-set_collect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day24-map_collect/day24-map_collect.iml" filepath="$PROJECT_DIR$/itheima/day24-map_collect/day24-map_collect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day25-project_doudizhu/day25-project_doudizhu.iml" filepath="$PROJECT_DIR$/itheima/day25-project_doudizhu/day25-project_doudizhu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day26-collect_stream_function/day26-collect_stream_function.iml" filepath="$PROJECT_DIR$/itheima/day26-collect_stream_function/day26-collect_stream_function.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima/itheima.iml" filepath="$PROJECT_DIR$/itheima/itheima.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-base.iml" filepath="$PROJECT_DIR$/.idea/java-base.iml" />
     </modules>
