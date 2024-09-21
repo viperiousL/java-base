@@ -1,6 +1,7 @@
 package com.itheima.doudizhu.domain;
 
-import com.itheima.game.GameJFrame;
+
+import com.itheima.doudizhu.game.GameJFrame;
 
 import javax.swing.*;
 import java.awt.*;
@@ -81,16 +82,20 @@ public class Poker extends JLabel implements MouseListener {
 		}
 	}
 
-	public void mouseEntered(MouseEvent arg0) {
+	@Override
+    public void mouseEntered(MouseEvent arg0) {
 	}
 
-	public void mouseExited(MouseEvent arg0) {
+	@Override
+    public void mouseExited(MouseEvent arg0) {
 	}
 
-	public void mouseReleased(MouseEvent arg0) {
+	@Override
+    public void mouseReleased(MouseEvent arg0) {
 	}
 
-	public void mousePressed(MouseEvent e) {
+	@Override
+    public void mousePressed(MouseEvent e) {
 	}
 
 

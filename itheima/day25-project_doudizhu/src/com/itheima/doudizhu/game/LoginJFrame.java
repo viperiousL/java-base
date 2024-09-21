@@ -1,7 +1,9 @@
 package com.itheima.doudizhu.game;
 
-import com.itheima.domain.User;
-import com.itheima.util.CodeUtil;
+
+
+import com.itheima.doudizhu.domain.User;
+import com.itheima.doudizhu.util.CodeUtil;
 
 import javax.swing.*;
 import java.awt.*;
