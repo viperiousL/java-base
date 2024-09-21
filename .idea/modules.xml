@@ -19,6 +19,9 @@
       <module fileurl="file://$PROJECT_DIR$/itheima/day15-abstract_interface_innerclass/day15-abstract_interface_innerclass.iml" filepath="$PROJECT_DIR$/itheima/day15-abstract_interface_innerclass/day15-abstract_interface_innerclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima/day16-oop_practice_half_up/day16-oop_practice_half_up.iml" filepath="$PROJECT_DIR$/itheima/day16-oop_practice_half_up/day16-oop_practice_half_up.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima/day17-oop_practice_half_down/day17-oop_practice_half_down.iml" filepath="$PROJECT_DIR$/itheima/day17-oop_practice_half_down/day17-oop_practice_half_down.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day18-api/day18-api.iml" filepath="$PROJECT_DIR$/itheima/day18-api/day18-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day19-regex/day19-regex.iml" filepath="$PROJECT_DIR$/itheima/day19-regex/day19-regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima/day20-date/day20-date.iml" filepath="$PROJECT_DIR$/itheima/day20-date/day20-date.iml" />
       <module fileurl="file://$PROJECT_DIR$/itheima/itheima.iml" filepath="$PROJECT_DIR$/itheima/itheima.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-base.iml" filepath="$PROJECT_DIR$/.idea/java-base.iml" />
     </modules>
